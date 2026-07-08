@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/images/icon.png" width="128" alt="OmniStorage Logo">
+  <img src="https://raw.githubusercontent.com/x-labs-myid/omnistorage/refs/heads/main/docs/assets/images/icon.png" width="128" alt="OmniStorage Logo">
 </p>
 
 <h1 align="center">OmniStorage</h1>
